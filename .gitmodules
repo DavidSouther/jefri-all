@@ -1,0 +1,15 @@
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/jefri/runtime.git
+[submodule "stores"]
+	path = stores
+	url = https://github.com/jefri/stores.git
+[submodule "server"]
+	path = server
+	url = https://github.com/jefri/server.git
+[submodule "angular"]
+	path = angular
+	url = https://github.com/jefri/angular.git
+[submodule "modeler"]
+	path = modeler
+	url = https://github.com/jefri/modeler.git
