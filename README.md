@@ -1,4 +1,4 @@
-![JEFRi - JSON Entity Framework Runtime](https://github.com/JEFRi/JEFRi/raw/master/jefri_logo.png)
+# ![JEFRi - JSON Entity Framework Runtime](https://github.com/JEFRi/JEFRi/raw/master/jefri_logo.png)
 
 ![JEFRi!](https://cdn.rawgit.com/JEFRi/JEFRi/master/JEFRi.svg)
 
